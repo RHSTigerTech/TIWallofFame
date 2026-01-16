@@ -74,3 +74,4 @@ Josh C | JoshCrawford07 | Spring 2025
 Alex P | SapperMen3000 | Spring 2025
 Abby Heckler | AbbyHeck | Spring 2025
 Alexis A | box-of-markers| spring 2025s
+Lauren L | lau-land | Spring 2026

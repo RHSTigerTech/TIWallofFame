@@ -75,3 +75,4 @@ Alex P | SapperMen3000 | Spring 2025
 Abby Heckler | AbbyHeck | Spring 2025
 Alexis A | box-of-markers| spring 2025s
 Logan Rodrigues | Worklrod | Spring 2026
+Weston C | WestonCoppedge | Spring 2025

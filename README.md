@@ -80,5 +80,6 @@ Kavan A | PlayerTheMaker | Spring 2026
 Weston C | WestonCoppedge | Spring 2026
 Logan Rodrigues | Worklrod | Spring 2026
 Michael H | MicHagans | Spring 2026 
+Carter W | CarterW87 | spring 2026
 
 

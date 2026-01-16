@@ -36,7 +36,7 @@ Alyssa J | 0-Avis | Spring 2021
 Mehroz A | helpHELPhelpHLELPHELPHEP | Spring 2021
 Connor P | connorportmann | Spring 2021
 Khang T | VolumeZer0 | Spring 2022
-Nolan L | nolanlassner | spring 2022
+Nolan L | nolanlassner | Spring 2022
 Amelia H | EmmyPrograms | Spring 2022
 Jack L | jacklucia | Spring 2022
 Michael T | MichaelTruong264921 | Spring 2022
@@ -61,7 +61,7 @@ Luke S | lukesonne06 | Spring 2024
 Philbert S | aphiru | Spring 2024
 Max T | MaxTarman1 | Spring 2024
 Noelle Givler | noe113ee | Spring 2024
-Michael S | mikie1650 | spring 2024 
+Michael S | mikie1650 | Spring 2024 
 Dylan B | Dback50 | Spring 2024
 Bradley H | bh123-4 | Spring 2024
 Alex J | slippy | Spring 2024
@@ -73,6 +73,6 @@ Jayden D | Jaydendoobie | Spring 2025
 Josh C | JoshCrawford07 | Spring 2025
 Alex P | SapperMen3000 | Spring 2025
 Abby Heckler | AbbyHeck | Spring 2025
-Alexis A | box-of-markers| spring 2025s
-
+Alexis A | box-of-markers| Spring 2025
 Weston C | WestonCoppedge | Spring 2025
+Kavan A | PlayerTheMaker | Spring 2026

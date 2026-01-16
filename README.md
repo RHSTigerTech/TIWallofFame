@@ -73,4 +73,5 @@ Jayden D | Jaydendoobie | Spring 2025
 Josh C | JoshCrawford07 | Spring 2025
 Alex P | SapperMen3000 | Spring 2025
 Abby Heckler | AbbyHeck | Spring 2025
-Alexis A | box-of-markers| spring 2025s
+Alexis A | box-of-markers | Spring 2025
+Michael H | MicHagans | Spring 2026 

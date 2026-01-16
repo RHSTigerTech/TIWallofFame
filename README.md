@@ -74,5 +74,6 @@ Josh C | JoshCrawford07 | Spring 2025
 Alex P | SapperMen3000 | Spring 2025
 Abby Heckler | AbbyHeck | Spring 2025
 Alexis A | box-of-markers| Spring 2025
-Weston C | WestonCoppedge | Spring 2025
 Kavan A | PlayerTheMaker | Spring 2026
+Weston C | WestonCoppedge | Spring 2026
+Logan Rodrigues | Worklrod | Spring 2026
